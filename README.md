@@ -1,7 +1,8 @@
 # Student-Grade-Application
 This Python program allows users to enter student names and their grades, calculate the grade averages, and assign letter grades based on predefined thresholds. The program offers several functionalities, such as entering new grades, reading previously entered grades, and saving calculated results.
 
-#Features
+# Features
+
 Enter Grades: Users can input the student's first name, last name, and three exam grades. These are then saved to a file called exam_grades.txt.
 
 Calculate Grades: The program reads the grades from exam_grades.txt, calculates the average, and assigns a letter grade based on the following scale:
@@ -17,7 +18,8 @@ Calculate Grades: The program reads the grades from exam_grades.txt, calculates 
 0-39: FF
 Save Results: The calculated averages and letter grades can be saved to a separate file called results.txt.
 
-#Usage
+# Usage
+
 Run the program and follow the on-screen instructions:
 
 1: Enter a new student's grades.
